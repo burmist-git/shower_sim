@@ -4,3 +4,11 @@ fig
 hist
 ozone/Screenshot_from_2021-11-14_00-15-57.png
 ozone/Screenshot_from_2021-11-14_00-16-12.png
+*.pdf
+*.eps
+Read_C.d
+Read_C.so
+Read_C_ACLiC_dict_rdict.pcm
+*~
+ozon_abs_model_conv.dat
+ozon_abs_model_four_gauss.dat
